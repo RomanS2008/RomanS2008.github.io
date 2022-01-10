@@ -1,0 +1,123 @@
+/* body{
+    background-color: #000;
+}
+.card{
+    display: block;
+    width: 800px;
+    height: 412.51px;
+    background: url('../images/sites/1.jpg') center center/cover no-repeat;
+    margin: 0 auto; 
+    margin-top: 200px;
+    cursor: pointer;
+}   
+
+.card_content{
+    opacity: 0;
+    transition: 0.4s ease;
+    width: 100%;
+    height: 100%;
+    padding: 165px 0 113.51px 0;
+}
+
+.card_text{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    line-height: 41px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.card_btn{
+    display: block;
+    width: 284px;
+    height: 68px;
+    background: none;
+    border: 2px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 22px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 35px;
+    text-transform: uppercase;
+    transition: 0.3s all;
+    color: #FFFFFF;
+    margin: 0 auto;
+    margin-top: 25px;
+}
+.card_btn:hover{
+    background: #ffffff;
+    color: #000
+}
+
+.card:hover .card_content{
+    opacity: 1;
+    background: rgba(0,0,0,0.7);
+} */
+
+/* .portfolio{
+    min-height: 2000px;
+    padding: 80px 0 0 0;
+    background-color: #000;
+}
+.portfolio_h2{
+        font-family: Roboto;
+        font-weight: bold;
+        font-size: 50px;
+        color: #FFFFFF;
+        text-align: center;
+}
+.portfolio_wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 87px;
+}
+.portfolio_wrapper_item{
+    cursor: pointer;
+    background-image: url(../images/sites/1.jpg);
+    width: 800px;
+    height:412.51px;
+}
+.portfolio_wrapper_content{
+    opacity: 0;
+    transition: 0.4s ease;
+    width: 100%;
+    height: 100%;
+    padding: 165px 0 113.51px 0;
+}
+.portfolio_wrapper_content_title{
+    font-weight: bold;
+    font-size: 35px;
+    color: #FFFFFF;
+}
+.portfolio_wrapper_content_btn{
+    display: block;
+    width: 284px;
+    height: 68px;
+    background: none;
+    border: 2px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 22px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 35px;
+    text-transform: uppercase;
+    transition: 0.3s all;
+    color: #FFFFFF;
+    margin: 0 auto;
+    margin-top: 25px;
+}
+.portfolio_wrapper_content_btn:hover{
+        background: #FFFFFF;
+        color: #000000;
+}
+.portfolio_wrapper_item:hover .portfolio_wrapper_content{
+    opacity: 1;
+    background: rgba(0,0,0,0.7);
+} */
